@@ -1,4 +1,3 @@
 # ZXing.Net.Mobile
-<p align="center" width="100%">
-    <img width="33%" src="https://profile-counter.glitch.me/muratbekler/count.svg"> 
-</p>
+
+[![HitCount](http://hits.dwyl.com/muratbekler/ZXingNetMobile.svg)](http://hits.dwyl.com/muratbekler/ZXingNetMobile)
